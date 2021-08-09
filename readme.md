@@ -43,6 +43,10 @@ function getMessages(uint index) view public returns(string memory) {
     }
 ```
 
+## Example Image of How One Can Append, Count, and Return a Message with the Solidity IDE
+
+![image3](iamges/example1.png)
+
 ## Lessons Learned
 
 | Lesson Learned | Need To Work On |
