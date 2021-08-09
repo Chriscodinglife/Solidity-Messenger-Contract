@@ -50,5 +50,10 @@ function getMessages(uint index) view public returns(string memory) {
 | What a Smart Contract is | Understanding State Mutability and Visibility |
 | How To Interact With A Smart Contract | Understanding the Solidity IDE Interface |
 | How Transactions can include Data In A Smart Contract | Practice on more constructor calls |
-| How To Ensure A Function only interacts with Data When It is From the Owner Of the Smart Contract | How To Create Child Parent Smart Contracts|
+| How To Ensure A Function only interacts with Data When It is From the Owner Of the Smart Contract | How To Create Child Parent Smart Contracts |
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
 
