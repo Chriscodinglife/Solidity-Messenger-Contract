@@ -1,7 +1,7 @@
 # Solidity Messages Contract
 
-![image1](images/ethereum.png)
-![image2](images/smartcontract.jpg)
+![image1](images/ethereum.png){ width=10% }
+![image2](images/smartcontract.jpg){ width=10% }
 
 ## Introduction
 
