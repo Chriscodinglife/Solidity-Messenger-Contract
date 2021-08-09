@@ -46,7 +46,7 @@ function getMessages(uint index) view public returns(string memory) {
 ## Lessons Learned
 
 | Lesson Learned | Need To Work On |
-| :------------- | :----------: | -----------: |
+| :------------- | :----------: |
 | What a Smart Contract is | Understanding State Mutability and Visibility |
 | How To Interact With A Smart Contract | Understanding the Solidity IDE Interface |
 | How Transactions can include Data In A Smart Contract | Practice on more constructor calls |
