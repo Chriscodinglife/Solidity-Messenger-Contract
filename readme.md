@@ -1,11 +1,11 @@
-# Solidity Messages Contract
+# Solidity Ethereum Messages Smart Contract
 
 ![image1](images/ethereum.png)
 ![image2](images/smartcontract.jpg)
 
 ## Introduction
 
-This is a Smart Contract created with the Solidity Programming Language and tested on an Ethereum Test Network.
+This is a Smart Contract created with the Solidity Programming Language and tested on the Rinkeby Ethereum Test Network.
 
 ## Goals for Learning from this Project:
 The goals of this smart contract is to learn how to do the following:
